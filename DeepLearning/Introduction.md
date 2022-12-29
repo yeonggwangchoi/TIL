@@ -42,3 +42,5 @@
 * 대표적인 활성화 함수는 Sigmoid, ReLU
     * Sigmoid함수는 기울기 소실(Gradient vanishing) 문제가 있음.
     * ReLU함수는 이러한 문제를 해결하기 위해 제안됨.
+
+# 경사 하강법(Gradient descent)
