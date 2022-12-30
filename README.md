@@ -8,4 +8,4 @@
 ## Python
 
 # TIL_Diary
-* [Diary]
+* [Diary](https://github.com/yeonggwangchoi/TIL/blob/main/TIL_Diary/Diary.md)
